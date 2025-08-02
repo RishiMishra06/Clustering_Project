@@ -15,7 +15,7 @@ This project implements customer segmentation using unsupervised learning (clust
 
 - Plotly (for interactive visualization)
 
--Jupyter Notebook
+- Jupyter Notebook
 
 # Project Workflow:-
 
